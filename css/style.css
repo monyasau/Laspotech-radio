@@ -145,6 +145,17 @@ nav div:hover {
   background-size: cover;
   /* opacity: 0.3; */
 }
+.secondsect {
+  /* first bg */
+
+  position: absolute;
+  width: 100vw;
+  height: 85vh;
+  left: 0px;
+  top: 98px;
+  background-size: cover;
+  /* opacity: 0.3; */
+}
 .firstsectheader {
   /* Laspotech 101.9 Fm */
 
@@ -184,6 +195,10 @@ nav div:hover {
   /* Blue 1 */
 
   color: #2f80ed;
+}
+.social-btn {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
 }
 .twittercircle {
   /* Vector */
